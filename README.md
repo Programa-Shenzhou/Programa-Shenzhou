@@ -18,3 +18,8 @@ Info:
 El lanzamiento del **Shenzhou 6** es el comienzo de la segunda etapa del programa espacial chino, en el que el país espera realizar acoplamiento entre cápsulas y modos espaciales, así como caminatas de astronautas en el espacio. Para la tercera fase, China construirá un laboratorio espacial permanente y un sistema de ingeniería espacial, según informa la agencia Xinhua.
 
 El **27 de septiembre** el taikonauta Zhai Zhigang realizó un paseo espacial de 15 minutos, siendo la primera vez que una nave china conseguía una misión semejante, convirtiéndose en el tercer país del mundo que la desarrolla con sus propios medios después de Estados Unidos y la Unión Soviética.
+
+POSIBLES ENFOQUES
+- Objetivos del programa y competencia 
+- La aparición repentina y veloz de los Chinos
+- La visibilidad de los Chinos vs su proyecto de integrar a todos los paises.

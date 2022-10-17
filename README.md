@@ -14,3 +14,5 @@ Info:
 ![Larga Marcha](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/CZ-2F.svg/150px-CZ-2F.svg.png)
 
 **Chen Shanguang**, director del programa de entrenamiento de tripulaciones espaciales chino, explicó a los medios que su país enviará una mujer al espacio dentro de cinco años: *"Las mujeres astronautas son más pacientes comparadas con los hombres, sus calidades sicológicas son más estables y enfrentan mejor el aislamiento"*
+
+el lanzamiento del **Shenzhou 6** es el comienzo de la segunda etapa del programa espacial chino, en el que el país espera realizar acoplamiento entre cápsulas y modos espaciales, así como caminatas de astronautas en el espacio. Para la tercera fase, China construirá un laboratorio espacial permanente y un sistema de ingeniería espacial, según informa la agencia Xinhua.

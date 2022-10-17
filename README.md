@@ -10,11 +10,16 @@
 :----:
 ![Larga Marcha](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/CZ-2F.svg/150px-CZ-2F.svg.png)
 
-**Chen Shanguang**, director del programa de entrenamiento de tripulaciones espaciales chino, explicó a los medios que su país enviará una mujer al espacio dentro de cinco años: *"Las mujeres astronautas son más pacientes comparadas con los hombres, sus calidades sicológicas son más estables y enfrentan mejor el aislamiento"*
+El lanzamiento de la Shenzhou-5 en octubre de 2003 fue un hito para el programa espacial tripulado de China, que envió con éxito al astronauta Yang Liwei al espacio. 
+![Yang Liwei](https://newses.cgtn.com/n/BfJIA-BIA-BEA/BcDcFEA.jpg)
 
 El lanzamiento del **Shenzhou 6** es el comienzo de la segunda etapa del programa espacial chino, en el que el país espera realizar acoplamiento entre cápsulas y modos espaciales, así como caminatas de astronautas en el espacio. Para la tercera fase, China construirá un laboratorio espacial permanente y un sistema de ingeniería espacial, según informa la agencia Xinhua.
 
 El **27 de septiembre** el taikonauta Zhai Zhigang realizó un paseo espacial de 15 minutos, siendo la primera vez que una nave china conseguía una misión semejante, convirtiéndose en el tercer país del mundo que la desarrolla con sus propios medios después de Estados Unidos y la Unión Soviética.
+
+Desde la Shenzhou-5 hasta la Shenzhou-7, la principal tarea fue enviar astronautas al espacio para traerlos de vuelta sanos y salvos.
+
+En septiembre de 2011, China lanzó su laboratorio espacial experimental, Tiangong-1.
 
 POSIBLES ENFOQUES
 - Objetivos del programa y competencia 

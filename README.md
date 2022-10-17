@@ -6,9 +6,9 @@ Info:
 
 - [Wikipedia](https://es.wikipedia.org/wiki/Programa_Shenzhou)
 
-Inicio del programa **1992**
-Primer lanzamiento **1999**
-**1999** a **2003**, China envió cuatro naves espaciales sin tripulación para probar la confiabilidad de los cohetes y los sitios de lanzamiento
+-Inicio del programa **1992**
+-Primer lanzamiento **1999**
+-**1999** a **2003**, China envió cuatro naves espaciales sin tripulación para probar la confiabilidad de los cohetes y los sitios de lanzamiento
 
 **Shenzhou** en chino significa *"navío celestial"*, *"bajel divino"* o *"viento divino"*.
 **Taikonautas** (como se denominan los astronautas chinos: taiko = espacio sideral) 

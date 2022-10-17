@@ -3,6 +3,7 @@
 -Inicio del programa **1992**, su primer lanzamiento fue en **1999** a **2003**, China envió cuatro naves espaciales sin tripulación para probar la confiabilidad de los cohetes y los sitios de lanzamiento.
 
 **Shenzhou** en chino significa *"navío celestial"*, *"bajel divino"* o *"viento divino"*.
+
 **Taikonautas** (como se denominan los astronautas chinos: taiko = espacio sideral) 
 
 **Larga Marcha 2F** (en chino tradicional, 长征二号F火箭 Chang Zheng 2F) o CZ-2F designa a un cohete espacial chino de la familia Larga Marcha formado por cuatro cohetes adicionales laterales (conocidos en inglés como boosters o "aceleradores") y un cuerpo central principal

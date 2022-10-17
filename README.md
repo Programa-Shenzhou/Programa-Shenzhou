@@ -1,10 +1,4 @@
 # Investigación Clase 11
-REFERENTES
-- [Cohete](https://multimedia.scmp.com/infographics/news/china/article/3133725/tianwen1-mars-mission/index.html)
-
-Info:
-
-- [Wikipedia](https://es.wikipedia.org/wiki/Programa_Shenzhou)
 
 -Inicio del programa **1992**, su primer lanzamiento fue en **1999** a **2003**, China envió cuatro naves espaciales sin tripulación para probar la confiabilidad de los cohetes y los sitios de lanzamiento.
 
@@ -25,3 +19,10 @@ POSIBLES ENFOQUES
 - Objetivos del programa y competencia 
 - La aparición repentina y veloz de los Chinos
 - La visibilidad de los Chinos vs su proyecto de integrar a todos los paises.
+
+REFERENTES
+- [Cohete](https://multimedia.scmp.com/infographics/news/china/article/3133725/tianwen1-mars-mission/index.html)
+
+Info:
+
+- [Wikipedia](https://es.wikipedia.org/wiki/Programa_Shenzhou)

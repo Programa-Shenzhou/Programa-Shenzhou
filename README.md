@@ -11,6 +11,7 @@
 ![Larga Marcha](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/CZ-2F.svg/150px-CZ-2F.svg.png)
 
 El lanzamiento de la Shenzhou-5 en octubre de 2003 fue un hito para el programa espacial tripulado de China, que envió con éxito al astronauta Yang Liwei al espacio. 
+:----:
 ![Yang Liwei](https://newses.cgtn.com/n/BfJIA-BIA-BEA/BcDcFEA.jpg)
 
 El lanzamiento del **Shenzhou 6** es el comienzo de la segunda etapa del programa espacial chino, en el que el país espera realizar acoplamiento entre cápsulas y modos espaciales, así como caminatas de astronautas en el espacio. Para la tercera fase, China construirá un laboratorio espacial permanente y un sistema de ingeniería espacial, según informa la agencia Xinhua.

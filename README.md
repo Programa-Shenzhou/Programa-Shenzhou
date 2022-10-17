@@ -33,3 +33,4 @@ REFERENTES
 Info:
 
 - [Wikipedia](https://es.wikipedia.org/wiki/Programa_Shenzhou)
+- [CGTN](https://espanol.cgtn.com/n/2022-06-05/HCAJIA/30-anyos-del-programa-espacial-tripulado-de-China/index.html)

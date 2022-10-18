@@ -46,9 +46,9 @@ El Shenzhou 13 fue lanzado el 15 de octubre de 2021, y su misión principal fue 
 
 **BANDERA EN LA LUNA**
 :----:
-![bandera] (https://ichef.bbci.co.uk/news/800/cpsprodpb/11AD0/production/_115800427_flag_body.jpg.webp)
+![bandera](https://ichef.bbci.co.uk/news/800/cpsprodpb/11AD0/production/_115800427_flag_body.jpg.webp)
 
-A más de 50 años de que Estados Unidos plantara su bandera en la luna, China se transforma en el **segundo país en plantar su bandera en la luna** . La bandera china pesa alrededor de un kilo y tiene unas medidas de dos metros de ancho por 9o centímetros de largo. «Ha sido confeccionada para aguantar las bajas temperaturas . Una bandera normal de la Tierra no sobreviviría en la superficie lunar», ha explicado el jefe del proyecto, Li Yunfeng. 
+A más de 50 años de que Estados Unidos plantara su bandera en la luna, China se transforma en el **segundo país en plantar su bandera en la luna** . La bandera china pesa alrededor de un kilo y tiene unas medidas de dos metros de ancho por 9o centímetros de largo. «Ha sido confeccionada para aguantar las bajas temperaturas . Una bandera normal de la Tierra no sobreviviría en la superficie lunar», ha explicado el jefe del proyecto, Li Yunfeng. La imagen fue sacada por una cámara situada en la nave Chang'e-5 uno de los robots de exploración, lanzado el 2020.
 
 
 

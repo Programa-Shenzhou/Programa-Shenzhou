@@ -1,4 +1,4 @@
-# Investigación Clase 11
+# Investigación Programa Shenzhou (República Popular China, 1992)
 
 -Inicio del programa **1992**, su primer lanzamiento fue en **1999** a **2003**, China envió cuatro naves espaciales sin tripulación para probar la confiabilidad de los cohetes y los sitios de lanzamiento.
 
@@ -43,6 +43,14 @@ El viaje del  Shenzhou 11 tuvo una duración de 33 días, comenzando el 17 de oc
 El 17 de junio de 2021 se lanzó el Shenzhou 12, el cual fue la misión más larga del programa espacial Shenzhou hasta ese momento, con una duración de 3 meses. y también fue la primera misión de la Gran estación espacial modular china, también conocida como Tiangong-3.
  
 El Shenzhou 13 fue lanzado el 15 de octubre de 2021, y su misión principal fue el de lograr una duración de 6 meses en el espacio, siendo el 15 de abril el día que se desacopló de la Gran estación espacial modular en China, aterrizando unas horas después. Lo anterior convirtió al Shenzhou 13 en la misión espacial con más duración de China.
+
+**BANDERA EN LA LUNA**
+:----:
+![bandera] (https://ichef.bbci.co.uk/news/800/cpsprodpb/11AD0/production/_115800427_flag_body.jpg.webp)
+
+A más de 50 años de que Estados Unidos plantara su bandera en la luna, China se transforma en el **segundo país en plantar su bandera en la luna** . La bandera china pesa alrededor de un kilo y tiene unas medidas de dos metros de ancho por 9o centímetros de largo. «Ha sido confeccionada para aguantar las bajas temperaturas . Una bandera normal de la Tierra no sobreviviría en la superficie lunar», ha explicado el jefe del proyecto, Li Yunfeng. 
+
+
 
 POSIBLES ENFOQUES
 - Objetivos del programa y competencia 

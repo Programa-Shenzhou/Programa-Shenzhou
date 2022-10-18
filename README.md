@@ -40,6 +40,9 @@ Shenzhou 10 fue la última misión a la estación espacial Tiangong. Fue lanzado
 
 El viaje del  Shenzhou 11 tuvo una duración de 33 días, comenzando el 17 de octubre del 2016. Su misión consistió en acoplarse al laboratorio espacial Tiangong-2, donde la nave se mantuvo por 30 días.
 
+El 17 de junio de 2021 se lanzó el Shenzhou 12, el cual fue la misión más larga del programa espacial Shenzhou hasta ese momento, con una duración de 3 meses. y también fue la primera misión de la Gran estación espacial modular china, también conocida como Tiangong-3.
+ 
+El Shenzhou 13 fue lanzado el 15 de octubre de 2021, y su misión principal fue el de lograr una duración de 6 meses en el espacio, siendo el 15 de abril el día que se desacopló de la Gran estación espacial modular en China, aterrizando unas horas después. Lo anterior convirtió al Shenzhou 13 en la misión espacial con más duración de China.
 
 POSIBLES ENFOQUES
 - Objetivos del programa y competencia 

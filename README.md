@@ -20,12 +20,24 @@ El **27 de septiembre** el taikonauta Zhai Zhigang realizó un paseo espacial de
 
 Desde la Shenzhou-5 hasta la Shenzhou-7, la principal tarea fue enviar astronautas al espacio para traerlos de vuelta sanos y salvos.
 
-En septiembre de 2011, China lanzó su laboratorio espacial experimental, Tiangong-1.
+El **29 de septiembre de 2011**, China lanzó su laboratorio espacial experimental, **Tiangong-1**.
+El **Shenzhou 8** (en en chino, 神舟八号 y traducido al español como *«Barco divino o sagrado»*) se acopló de forma remota con la estación espacial Tiangong 1.
+la primera de China, con el módulo Tiangong 1. Sólo la Unión Soviética y la Agencia Espacial Europea han logrado el acoplamiento automático antes que el de China.
+
+**Tiangong 1**
+:----:
+![T1](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tiangong_1_drawing_%28cropped%29.png/220px-Tiangong_1_drawing_%28cropped%29.png)
+
+**Shenzhou 8**
+:----:
+![S8](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Shenzhou_spacecraft_diagram_by_Bo.png/220px-Shenzhou_spacecraft_diagram_by_Bo.png)
+![acople](https://m.media-amazon.com/images/I/71zyNemRWML._AC_SX450_.jpg)
 
 POSIBLES ENFOQUES
 - Objetivos del programa y competencia 
 - La aparición repentina y veloz de los Chinos
 - La visibilidad de los Chinos vs su proyecto de integrar a todos los paises.
+- Influencia cultural en el programa espacial.
 
 REFERENTES
 - [Cohete](https://multimedia.scmp.com/infographics/news/china/article/3133725/tianwen1-mars-mission/index.html)

@@ -24,11 +24,6 @@ El **29 de septiembre de 2011**, China lanzó su laboratorio espacial experiment
 El **Shenzhou 8** (en en chino, 神舟八号 y traducido al español como *«Barco divino o sagrado»*) se acopló de forma remota con la estación espacial Tiangong 1.
 la primera de China, con el módulo Tiangong 1. Sólo la Unión Soviética y la Agencia Espacial Europea han logrado el acoplamiento automático antes que el de China.
 
-El Shenzhou 9 fue lanzado el 16 de junio del 2012, dentro de su tripulación se encontraba Liu Yang, la primera mujer taikonauta, además de Jing Haipeng, quien ya había tripulado un viaje espacial, por lo que se convirtió en el primer taikonauta chino en realizar dos viajes espaciales.
-
-Con el Shenzhou 10 se acabaron las misiones de la estación espacial Tiangong. Fue lanzado el 11 de junio del 2013 y retornó el 26 de junio de 2013 donde la tripulación llevó a cabo experimentos físicos, tecnológicos y científicos.
-
-El viaje del  Shenzhou 11 tuvo una duración de 33 días, comenzando el 17 de octubre del 2016. Su misión consistió en acoplarse al laboratorio espacial Tiangong-2, donde la nave se mantuvo por 30 días.
 
 
 |**Tiangong 1**|**Shenzhou 8**
@@ -38,6 +33,13 @@ El viaje del  Shenzhou 11 tuvo una duración de 33 días, comenzando el 17 de oc
 **ACOPLE**
 :----:
 ![acople](https://www.chinadaily.com.cn/china/images/attachement/jpg/site1/20111114/0013729c0495102b50ee45.jpg)
+
+El Shenzhou 9 fue lanzado el 16 de junio del 2012, dentro de su tripulación se encontraba Liu Yang, la primera mujer taikonauta, además de Jing Haipeng, quien ya había tripulado un viaje espacial, por lo que se convirtió en el primer taikonauta chino en realizar dos viajes espaciales.
+
+Shenzhou 10 fue la última misión a la estación espacial Tiangong. Fue lanzado el 11 de junio del 2013 y retornó el 26 de junio de 2013 donde la tripulación llevó a cabo experimentos físicos, tecnológicos y científicos.
+
+El viaje del  Shenzhou 11 tuvo una duración de 33 días, comenzando el 17 de octubre del 2016. Su misión consistió en acoplarse al laboratorio espacial Tiangong-2, donde la nave se mantuvo por 30 días.
+
 
 POSIBLES ENFOQUES
 - Objetivos del programa y competencia 

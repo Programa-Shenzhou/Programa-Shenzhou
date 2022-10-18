@@ -24,13 +24,12 @@ El **29 de septiembre de 2011**, China lanzó su laboratorio espacial experiment
 El **Shenzhou 8** (en en chino, 神舟八号 y traducido al español como *«Barco divino o sagrado»*) se acopló de forma remota con la estación espacial Tiangong 1.
 la primera de China, con el módulo Tiangong 1. Sólo la Unión Soviética y la Agencia Espacial Europea han logrado el acoplamiento automático antes que el de China.
 
-**Tiangong 1**
-:----:
-![T1](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tiangong_1_drawing_%28cropped%29.png/220px-Tiangong_1_drawing_%28cropped%29.png)
+|**Tiangong 1**|**Shenzhou 8**
+|----|----|
+|![T1](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tiangong_1_drawing_%28cropped%29.png/220px-Tiangong_1_drawing_%28cropped%29.png)|![S8](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Shenzhou_spacecraft_diagram_by_Bo.png/220px-Shenzhou_spacecraft_diagram_by_Bo.png)|
 
-**Shenzhou 8**
+**ACOPLE**
 :----:
-![S8](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Shenzhou_spacecraft_diagram_by_Bo.png/220px-Shenzhou_spacecraft_diagram_by_Bo.png)
 ![acople](https://m.media-amazon.com/images/I/71zyNemRWML._AC_SX450_.jpg)
 
 POSIBLES ENFOQUES

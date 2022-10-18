@@ -30,7 +30,7 @@ la primera de China, con el módulo Tiangong 1. Sólo la Unión Soviética y la 
 
 **ACOPLE**
 :----:
-![acople](https://m.media-amazon.com/images/I/71zyNemRWML._AC_SX450_.jpg)
+![acople](https://www.chinadaily.com.cn/china/images/attachement/jpg/site1/20111114/0013729c0495102b50ee45.jpg)
 
 POSIBLES ENFOQUES
 - Objetivos del programa y competencia 

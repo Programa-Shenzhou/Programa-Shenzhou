@@ -65,3 +65,4 @@ Info:
 
 - [Wikipedia](https://es.wikipedia.org/wiki/Programa_Shenzhou)
 - [CGTN](https://espanol.cgtn.com/n/2022-06-05/HCAJIA/30-anyos-del-programa-espacial-tripulado-de-China/index.html)
+- [CNN] (https://edition.cnn.com/2022/06/04/china/space-mission-shenzhou-14-crewed-launch-intl-hnk-scn/index.html)
